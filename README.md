@@ -1,2 +1,2 @@
-# Automate_the_Boring_Stuff_with_Python
+# Automate-the-Boring-Stuff-with-Python
 Repo for my introduction to Python
